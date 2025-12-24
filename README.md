@@ -50,8 +50,8 @@ The app uses **state-of-the-art NLP embeddings** to extract clauses from contrac
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/legal-doc-analyzer.git
-cd legal-doc-analyzer
+git clone https://github.com/Jaykay73/Legal-Document-Analyser.git
+cd Legal-Document-Analyser
 ```
 
 2. **Create a virtual environment**
